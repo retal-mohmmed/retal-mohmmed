@@ -1,4 +1,5 @@
 ## "Aspiring Data Engineer | Currently learning SQL, Python, and Data Pipelines step-by-step."
+Completed: SQLBolt Lesson 1 - SELECT Queries ✅
 
 <!--
 **retal-mohmmed/retal-mohmmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
