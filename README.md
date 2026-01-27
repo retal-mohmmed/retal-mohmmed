@@ -1,4 +1,4 @@
-## Hi there 👋
+## "Aspiring Data Engineer | Currently learning SQL, Python, and Data Pipelines step-by-step."
 
 <!--
 **retal-mohmmed/retal-mohmmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
