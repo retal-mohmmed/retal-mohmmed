@@ -2,6 +2,7 @@
 Completed: SQLBolt Lesson 1 - SELECT Queries ✅
 completed:SQLBolt Lesson 2: Queries with constraints✅
 SQL Lesson 3: Queries with constraints (Pt. 2) ✅
+SQL Lesson 4: Filtering and sorting Query results✅
 **retal-mohmmed/retal-mohmmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
